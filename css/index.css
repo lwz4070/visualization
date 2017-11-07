@@ -1,5 +1,5 @@
 *{margin:0;padding: 0;}
-body{overflow: hidden; background: url(../img/bg.jpeg);height: 100%;}
+ #container{overflow: hidden; background: url(../img/bg.jpeg);}
 .taskbg{width: 1200px;height: 100px; margin:0 auto; background:url(../img/taskbg.jpg) ;}
 .taskbg .task{height: 100px; line-height: 100px;text-align: center;text-shadow: 5px 5px 5px #463c5d;  font-family:"华文行楷";font-size: 50px; color: #4122d6;}
 .member{height: 40px;width: 32%;margin: 0 auto;padding: 0 20px; background-color: rgb(128, 182, 216);}
