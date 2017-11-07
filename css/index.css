@@ -1,8 +1,8 @@
 *{margin:0;padding: 0;}
-body{background: url(../img/bg.jpeg);}
+body{overflow: hidden; background: url(../img/bg.jpeg);height: 100%;}
 .taskbg{width: 1200px;height: 100px; margin:0 auto; background:url(../img/taskbg.jpg) ;}
 .taskbg .task{height: 100px; line-height: 100px;text-align: center;text-shadow: 5px 5px 5px #463c5d;  font-family:"华文行楷";font-size: 50px; color: #4122d6;}
-.member{height: 40px;width: 476px;margin: 0 auto; background-color: rgb(128, 182, 216);}
+.member{height: 40px;width: 32%;margin: 0 auto;padding: 0 20px; background-color: rgb(128, 182, 216);}
 .member ul li{float: left; height: 40px;padding: 0 10px; list-style: none; line-height: 40px; font-size: 35px;}
 .member ul li a{color: #150303;}
 .member ul li a:hover{color:red;}
