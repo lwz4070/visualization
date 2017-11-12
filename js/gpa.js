@@ -10,7 +10,7 @@
     			//legend 图例组件 图例组件展现了不同系列的标记(symbol)，颜色和名字。可以通过点击图例控制哪些系列不显示
     			legend: {
     				textStyle: {
-    					fontSize: '20',
+    					fontSize: '20'
     				},
 
     				data: ['自己绩点', '学院平均绩点']
